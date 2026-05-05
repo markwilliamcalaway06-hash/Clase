@@ -1,0 +1,2 @@
+# Clase
+cuadro eléctrico
